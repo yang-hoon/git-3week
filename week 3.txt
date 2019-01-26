@@ -1,2 +1,4 @@
 ﻿#계획 
 수업을 완성하겠습니다
+
+working copy /// stage, index ,cache // repositroty
