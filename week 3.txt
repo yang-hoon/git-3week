@@ -2,3 +2,17 @@
 수업을 완성하겠습니다
 
 working copy /// stage, index ,cache // repositroty
+
+
+프로젝트 파일을 만듭시다. 
+
+1
+mkdir gitfth
+프로젝트 디렉토리로 들어갑니다. 
+
+1
+cd gitfth
+현재 디렉토리를 git의 (버전) 저장소로 만듭니다. 
+
+1
+git init
